@@ -1,0 +1,15 @@
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\OOP simpleCalculator\bin\Debug\net8.0\OOP simpleCalculator.exe
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\OOP simpleCalculator\bin\Debug\net8.0\OOP simpleCalculator.deps.json
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\OOP simpleCalculator\bin\Debug\net8.0\OOP simpleCalculator.runtimeconfig.json
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\OOP simpleCalculator\bin\Debug\net8.0\OOP simpleCalculator.dll
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\OOP simpleCalculator\bin\Debug\net8.0\OOP simpleCalculator.pdb
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\OOP simpleCalculator\obj\Debug\net8.0\OOP simpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\OOP simpleCalculator\obj\Debug\net8.0\OOP simpleCalculator.AssemblyInfoInputs.cache
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\OOP simpleCalculator\obj\Debug\net8.0\OOP simpleCalculator.AssemblyInfo.cs
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\OOP simpleCalculator\obj\Debug\net8.0\OOP simpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\OOP simpleCalculator\obj\Debug\net8.0\OOP simpleCalculator.sourcelink.json
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\OOP simpleCalculator\obj\Debug\net8.0\OOP simpleCalculator.dll
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\OOP simpleCalculator\obj\Debug\net8.0\refint\OOP simpleCalculator.dll
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\OOP simpleCalculator\obj\Debug\net8.0\OOP simpleCalculator.pdb
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\OOP simpleCalculator\obj\Debug\net8.0\OOP simpleCalculator.genruntimeconfig.cache
+C:\Users\tilao\OneDrive\Documents\Ian files\vs projects\OOP method assignment\OOP simpleCalculator\obj\Debug\net8.0\ref\OOP simpleCalculator.dll
